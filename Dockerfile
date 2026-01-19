@@ -1,4 +1,4 @@
-FROM fenics/stable:latest
+FROM quay.io/fenicsproject/stable:latest
 
 WORKDIR /app
 COPY requirements.txt .
