@@ -1,4 +1,4 @@
-FROM quay.io/fenicsproject/stable:latest
+FROM dolfinx/dolfinx:stable
 
 WORKDIR /app
 COPY requirements.txt .
