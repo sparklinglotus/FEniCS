@@ -1,2 +1,2 @@
 # FEniCS
-runpod==1.*
+runpod==0.9.9
